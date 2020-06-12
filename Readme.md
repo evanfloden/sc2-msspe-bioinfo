@@ -60,7 +60,7 @@ Below is a non-exhaustive list of the outputs from the `call_consensus.nf` pipel
 
 # Testing
 
-Simple test to make sure things aren't broken:
+Simple test to make sure things are not broken:
 
 ```{sh}
 nextflow run call_consensus.nf -profile docker,test
