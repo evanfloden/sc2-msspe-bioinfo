@@ -1,7 +1,7 @@
 # SARS-CoV-2 Consensus Genome Pipeline
 
 This pipeline generates consensus SARS-CoV-2 genomes from fastq
-files. We are using it on the following types of sequencing data:
+files.  We are using it on the following types of sequencing data:
 1. Metagenomic sequencing enriched for SARS-CoV-2 reads
    ([protocols.io](https://www.protocols.io/private/32717E8D59E211EABDB40242AC110003?step=4)).
 2. Amplicon-based short-read sequencing (using ARTIC v3 protocol)..
