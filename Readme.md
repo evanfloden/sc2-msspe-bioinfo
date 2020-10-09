@@ -21,7 +21,7 @@ The kraken2db can be downloaded from https://genexa.ch/sars2-bioinformatics-reso
 
 ## Outputs
 
-Below is a non-exhaustive list of the outputs from the `call_consensus.nf` pipeline.
+Below is a non-exhaustive list of the outputs from `call_consensus.nf` pipeline.
 
 ```
 ├── combined.fa
